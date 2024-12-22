@@ -1,0 +1,12 @@
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\bin\Debug\net7.0\Global.deps.json
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\bin\Debug\net7.0\Global.dll
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\bin\Debug\net7.0\Global.pdb
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\Global.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\Global.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\Global.AssemblyInfo.cs
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\Global.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\Global.dll
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\refint\Global.dll
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\Global.pdb
+C:\Users\ruben\source\repos\2324-ap-rubenschoonbaert\Doolhof\Logica\obj\Debug\net7.0\ref\Global.dll
