@@ -12,5 +12,6 @@ Choose from 3 different maze generation algorithms.
 Variable size
 
 ![IMG1](https://github.com/user-attachments/assets/f9293570-0022-4b77-9662-066bce075a81)
+
 The generated maze can be visualised in 3D.
 A ball is simulated in the maze and can be controlled by tilting the board using the arrow keys.
